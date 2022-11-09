@@ -1,0 +1,5 @@
+C:\Users\muham\Desktop\uefadraws\uefadraws\bin\Debug\uefadraws.exe
+C:\Users\muham\Desktop\uefadraws\uefadraws\bin\Debug\uefadraws.pdb
+C:\Users\muham\Desktop\uefadraws\uefadraws\obj\Debug\uefadraws.csprojResolveAssemblyReference.cache
+C:\Users\muham\Desktop\uefadraws\uefadraws\obj\Debug\uefadraws.exe
+C:\Users\muham\Desktop\uefadraws\uefadraws\obj\Debug\uefadraws.pdb
